@@ -12,7 +12,7 @@ const Routes = () => (
             <Home prompt="Hello" defaultName="Patnaik" />
         </Route>
         <Route path="/">
-            <Home prompt="Hello" defaultName="Shibasis" />
+            <Home prompt="I am " defaultName="Shibasis" />
         </Route>
     </Switch>
 );
